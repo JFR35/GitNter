@@ -1,2 +1,2 @@
 archivo 1
-git addlinea mala
+git add
